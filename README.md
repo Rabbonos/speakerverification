@@ -1,4 +1,6 @@
-# speakerverification
+# speakerverification -basic
+There is also a pro version that is much bigger and with extra functionality ...
+
 Functionality Description:
 
 The code processes a main audio file to perform speaker diarization and optional speaker verification.
